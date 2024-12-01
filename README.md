@@ -1,13 +1,9 @@
 # UK Railway Dashboard
 
-### Overview and Tickets Sales Page
-![Overview and Tickets Sales](path/to/overview_image.png)
 
-### Revenue Insights Page
-![Revenue Insights](path/to/revenue_image.png)
+![Dashboard](Dash-Imgs/Dashboard.png)
 
-### Refund Analysis Page
-![Refund Analysis](path/to/refunds_image.png)
+
 
 ## About this Project
 This data analysis project focuses on the UK Railway data from the first four months of 2024 (January to April).
@@ -55,6 +51,8 @@ The second one is about revenue based on various factors such as ticket class an
 
 ## Overview and Tickets Sales :
 
+![Dashboard](Dash-Imgs/Dashboard.png)
+
 - **Total Successful Trips**: The total successful trips reached a good number of 29.77k trips, broken down into:
   - **On-Time Trips**: 27.48k trips.
   - **Delayed Trips**: 2.29k trips. 
@@ -77,6 +75,8 @@ The second one is about revenue based on various factors such as ticket class an
 
 ## Revenue Insights
 
+![Dashboard](Dash-Imgs/REVENUE.png)
+
 - **Total Revenue**: The total revenue of $741.92K provides a clear picture of the financial health of the rail services. 
   - The detailed breakdown by ticket type and class highlights the significant revenue from advance ticket purchases, emphasizing their importance and the need to maintain and possibly expand such offerings.
 
@@ -87,6 +87,8 @@ The second one is about revenue based on various factors such as ticket class an
 ---
 
 ## Refunds Insights
+
+![Dashboard](Dash-Imgs/refunds.png)
 
 - **On-Time Performance**: Analyzing the on-time performance of trains revealed factors contributing to delays. Understanding these factors helps formulate strategies to improve punctuality, thereby enhancing customer satisfaction and operational efficiency.
 
